@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.htrace:htrace-core4:4.0.1-incubating">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/htrace/htrace-core4/4.0.1-incubating/htrace-core4-4.0.1-incubating.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

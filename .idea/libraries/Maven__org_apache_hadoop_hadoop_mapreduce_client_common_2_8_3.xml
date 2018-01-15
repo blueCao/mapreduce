@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-mapreduce-client-common:2.8.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-common/2.8.3/hadoop-mapreduce-client-common-2.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-common/src/test/java" />
+    </SOURCES>
+  </library>
+</component>

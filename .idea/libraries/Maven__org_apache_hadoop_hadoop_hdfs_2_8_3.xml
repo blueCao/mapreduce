@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-hdfs:2.8.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-hdfs/2.8.3/hadoop-hdfs-2.8.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs-client/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs-client/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs-httpfs/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs-httpfs/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs-native-client/src/main/native/fuse-dfs/test" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs-nfs/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs-nfs/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs/dev-support/jdiff" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs/src/contrib/bkjournal/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs/src/test/aop" />
+      <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-hdfs-project/hadoop-hdfs/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
