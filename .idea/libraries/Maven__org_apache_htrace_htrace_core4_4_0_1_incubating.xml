@@ -3,7 +3,11 @@
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/htrace/htrace-core4/4.0.1-incubating/htrace-core4-4.0.1-incubating.jar!/" />
     </CLASSES>
-    <JAVADOC />
-    <SOURCES />
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/htrace/htrace-core4/4.0.1-incubating/htrace-core4-4.0.1-incubating-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/htrace/htrace-core4/4.0.1-incubating/htrace-core4-4.0.1-incubating-sources.jar!/" />
+    </SOURCES>
   </library>
 </component>

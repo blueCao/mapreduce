@@ -3,10 +3,13 @@
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.8.3/hadoop-mapreduce-client-core-2.8.3.jar!/" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.8.3/hadoop-mapreduce-client-core-2.8.3-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/main/java" />
       <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-mapreduce-project/hadoop-mapreduce-client/hadoop-mapreduce-client-core/src/test/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-mapreduce-client-core/2.8.3/hadoop-mapreduce-client-core-2.8.3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -3,11 +3,14 @@
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.8.3/hadoop-common-2.8.3.jar!/" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.8.3/hadoop-common-2.8.3-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-common-project/hadoop-common/dev-support/jdiff" />
       <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-common-project/hadoop-common/src/main/java" />
       <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-common-project/hadoop-common/src/test/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-common/2.8.3/hadoop-common-2.8.3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>

@@ -3,10 +3,13 @@
     <CLASSES>
       <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-common/2.8.3/hadoop-yarn-common-2.8.3.jar!/" />
     </CLASSES>
-    <JAVADOC />
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-common/2.8.3/hadoop-yarn-common-2.8.3-javadoc.jar!/" />
+    </JAVADOC>
     <SOURCES>
       <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/main/java" />
       <root url="file://$PROJECT_DIR$/../hadoop-release-2.8.3-RC0/hadoop-yarn-project/hadoop-yarn/hadoop-yarn-common/src/test/java" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-common/2.8.3/hadoop-yarn-common-2.8.3-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
